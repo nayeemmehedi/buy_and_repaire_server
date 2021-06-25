@@ -1,2 +1,5 @@
-# full-stack-server-nayeemmehedi
-# buy_and_repaire_server
+heroku give me this error:
+
+[remote rejected]
+
+error : failed to push some refs
